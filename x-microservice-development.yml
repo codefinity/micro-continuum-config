@@ -1,2 +1,3 @@
-x-microservice.config-test-value: development-profile-updated-3-busrefresh
+x-microservice.config-test-value: development-profile-updated
+x-microservice.config-busrefresh-test-value: development-profile-updated-3-busrefresh
 
